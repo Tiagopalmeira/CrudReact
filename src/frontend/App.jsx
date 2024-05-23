@@ -1,11 +1,11 @@
 import { useState } from 'react';
 import './public/css/App.css';
-import FormularioCadastro from '../frontend/FormularioCadastro';
-
+import FormularioCadastro from './components/FormularioCadastro';
+import Opcao from './opcao';
 function App() {
   return (
     <div>
-      <FormularioCadastro />
+      <Opcao />
     </div>
   );
 }

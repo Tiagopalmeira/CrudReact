@@ -1,0 +1,43 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .cabecalho h2 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  .botao-icon {
+    cursor: pointer;
+    font-size: 24px;
+    margin-left: 10px;
+  }
+  
+  .formulario {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  .but{
+    align-items: center;
+    background-color: #ffffff;
+    text-align: center;
+  }
+  
+  .grid {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
+  
